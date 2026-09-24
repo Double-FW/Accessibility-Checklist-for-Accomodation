@@ -1,4 +1,4 @@
-# Accessible Living Quarters for Actors: Design Requirements Checklist
+# Accessible Living Quarters: Design Requirements Checklist
 
 **Purpose.** Design the accommodation as one accessible journey: understanding the site, reaching a destination, using the room independently, and obtaining support when needed.  
 <br/>Physical access (P),  
